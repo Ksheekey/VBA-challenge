@@ -1,1 +1,4 @@
 Homework
+
+
+For this homework I could not get the code to re-load on my computer. Spent 4 hours just trying to get it to load on the workbook. The Alphabet-testing picture shows my code works fine, it just doesn't load when i try to do it on the actual workbook. I added screenshots as requested in the hw-readme but they are from earlier steps in my code. The code works and should be correct, even to run on all sheets at once. The code is attached on a Word document. Wasn't sure what the instructions meant but figured this would work to copy and paste and run the code. Please run that code to see that it does work. Thank you for your understanding. I tried every trick in the book to try to get it to run on the main sheet but my excel would just crash out every time since the file was so large.
